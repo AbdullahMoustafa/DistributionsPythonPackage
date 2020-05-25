@@ -20,3 +20,5 @@ pip install --index-url https://test.pypi.org/simple/ distributions
 # command to upload to the pypi repository
 twine upload dist/*
 pip install distributions
+
+Finally check your account on PyPi to see your package
